@@ -1,0 +1,14 @@
+2020-12-31 总交易次数: 119
+2020-12-31 胜率: 41.18%
+2020-12-31 总收益: 2715.41
+2020-12-31 年化收益: 0.46%
+最终资金: 102715.41
+
+RMSE: 0.011343717
+Direction Accuracy Timely: 0.9547738693467337
+Direction Accuracy: 0.85
+Sharpe Ratio: 0.8379807
+
+Epoch 99/100  Loss: 0.056558  DirAcc: 0.9513
+Epoch 100/100  Loss: 0.087745  DirAcc: 0.9351
+Epoch 100/100  TrainLoss: 0.087745  TrainDir: 0.9351  ValLoss: 0.065705  ValDir: 0.9692
